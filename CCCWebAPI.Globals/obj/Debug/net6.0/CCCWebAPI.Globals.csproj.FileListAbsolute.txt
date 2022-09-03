@@ -1,0 +1,15 @@
+D:\CCCWebAPI\CCCWebAPI\CCCWebAPI\CCCWebAPI.Globals\bin\Debug\net6.0\CCCWebAPI.Globals.exe
+D:\CCCWebAPI\CCCWebAPI\CCCWebAPI\CCCWebAPI.Globals\bin\Debug\net6.0\CCCWebAPI.Globals.deps.json
+D:\CCCWebAPI\CCCWebAPI\CCCWebAPI\CCCWebAPI.Globals\bin\Debug\net6.0\CCCWebAPI.Globals.runtimeconfig.json
+D:\CCCWebAPI\CCCWebAPI\CCCWebAPI\CCCWebAPI.Globals\bin\Debug\net6.0\CCCWebAPI.Globals.dll
+D:\CCCWebAPI\CCCWebAPI\CCCWebAPI\CCCWebAPI.Globals\bin\Debug\net6.0\CCCWebAPI.Globals.pdb
+D:\CCCWebAPI\CCCWebAPI\CCCWebAPI\CCCWebAPI.Globals\obj\Debug\net6.0\CCCWebAPI.Globals.csproj.AssemblyReference.cache
+D:\CCCWebAPI\CCCWebAPI\CCCWebAPI\CCCWebAPI.Globals\obj\Debug\net6.0\CCCWebAPI.Globals.GeneratedMSBuildEditorConfig.editorconfig
+D:\CCCWebAPI\CCCWebAPI\CCCWebAPI\CCCWebAPI.Globals\obj\Debug\net6.0\CCCWebAPI.Globals.AssemblyInfoInputs.cache
+D:\CCCWebAPI\CCCWebAPI\CCCWebAPI\CCCWebAPI.Globals\obj\Debug\net6.0\CCCWebAPI.Globals.AssemblyInfo.cs
+D:\CCCWebAPI\CCCWebAPI\CCCWebAPI\CCCWebAPI.Globals\obj\Debug\net6.0\CCCWebAPI.Globals.csproj.CoreCompileInputs.cache
+D:\CCCWebAPI\CCCWebAPI\CCCWebAPI\CCCWebAPI.Globals\obj\Debug\net6.0\CCCWebAPI.Globals.dll
+D:\CCCWebAPI\CCCWebAPI\CCCWebAPI\CCCWebAPI.Globals\obj\Debug\net6.0\refint\CCCWebAPI.Globals.dll
+D:\CCCWebAPI\CCCWebAPI\CCCWebAPI\CCCWebAPI.Globals\obj\Debug\net6.0\CCCWebAPI.Globals.pdb
+D:\CCCWebAPI\CCCWebAPI\CCCWebAPI\CCCWebAPI.Globals\obj\Debug\net6.0\CCCWebAPI.Globals.genruntimeconfig.cache
+D:\CCCWebAPI\CCCWebAPI\CCCWebAPI\CCCWebAPI.Globals\obj\Debug\net6.0\ref\CCCWebAPI.Globals.dll

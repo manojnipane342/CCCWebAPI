@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "",
+"LaunchCommand": "",
+"WorkingDirectory": "D:\\CCCWebAPI\\CCCWebAPI\\CCCWebAPI\\CCCWebAPI",
+"MaxTimeoutInSeconds": "120"
+}
+}

@@ -1,0 +1,14 @@
+D:\CCCWebAPI\CCCWebAPI\CCCWebAPI\CCCWebAPI.Models\bin\Debug\net6.0\CCCWebAPI.Models.deps.json
+D:\CCCWebAPI\CCCWebAPI\CCCWebAPI\CCCWebAPI.Models\bin\Debug\net6.0\CCCWebAPI.Models.runtimeconfig.json
+D:\CCCWebAPI\CCCWebAPI\CCCWebAPI\CCCWebAPI.Models\bin\Debug\net6.0\CCCWebAPI.Models.dll
+D:\CCCWebAPI\CCCWebAPI\CCCWebAPI\CCCWebAPI.Models\bin\Debug\net6.0\CCCWebAPI.Models.pdb
+D:\CCCWebAPI\CCCWebAPI\CCCWebAPI\CCCWebAPI.Models\obj\Debug\net6.0\CCCWebAPI.Models.csproj.AssemblyReference.cache
+D:\CCCWebAPI\CCCWebAPI\CCCWebAPI\CCCWebAPI.Models\obj\Debug\net6.0\CCCWebAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\CCCWebAPI\CCCWebAPI\CCCWebAPI\CCCWebAPI.Models\obj\Debug\net6.0\CCCWebAPI.Models.AssemblyInfoInputs.cache
+D:\CCCWebAPI\CCCWebAPI\CCCWebAPI\CCCWebAPI.Models\obj\Debug\net6.0\CCCWebAPI.Models.AssemblyInfo.cs
+D:\CCCWebAPI\CCCWebAPI\CCCWebAPI\CCCWebAPI.Models\obj\Debug\net6.0\CCCWebAPI.Models.csproj.CoreCompileInputs.cache
+D:\CCCWebAPI\CCCWebAPI\CCCWebAPI\CCCWebAPI.Models\obj\Debug\net6.0\CCCWebAPI.Models.dll
+D:\CCCWebAPI\CCCWebAPI\CCCWebAPI\CCCWebAPI.Models\obj\Debug\net6.0\refint\CCCWebAPI.Models.dll
+D:\CCCWebAPI\CCCWebAPI\CCCWebAPI\CCCWebAPI.Models\obj\Debug\net6.0\CCCWebAPI.Models.pdb
+D:\CCCWebAPI\CCCWebAPI\CCCWebAPI\CCCWebAPI.Models\obj\Debug\net6.0\CCCWebAPI.Models.genruntimeconfig.cache
+D:\CCCWebAPI\CCCWebAPI\CCCWebAPI\CCCWebAPI.Models\obj\Debug\net6.0\ref\CCCWebAPI.Models.dll
